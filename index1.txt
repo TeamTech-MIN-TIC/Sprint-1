@@ -1,0 +1,2 @@
+Hola, Soy Juan Felipe Ortiz Ortiz, integrante del TeamTech. 
+Este es mi primer commit.
